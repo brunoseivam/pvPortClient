@@ -1,0 +1,16 @@
+.cproject
+.project
+.settings/
+bin/
+lib/
+doc/
+include/
+db/
+dbd/
+documentation/html
+documentation/*.tag
+envPaths
+configure/*.local
+!configure/ExampleRELEASE.local
+**/O.*
+QtC-*
